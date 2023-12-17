@@ -9,7 +9,7 @@ I value:
 My view: Learning best occurs when the greatest number of associations can be made in your brain -- i.e. by doing something, you experience the most relevant inputs, and these are the associations that provide "hooks" for learning. So, I aim to have a bias towards action rather than overthinking -- unless the action is thinking :)
 
 Here is my framework:
-![My Learn-->Plan-->Act Framwork for life](earn-plan-act-cycle.png)
+![My Learn-->Plan-->Act Framwork for life](https://github.com/jmsundin/jmsundin/learn-plan-act-cycle.png)
 
 ## Infoverse AI
 
