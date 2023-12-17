@@ -1,6 +1,15 @@
 # Hi there 👋
 
-My name is Jon Sundin. I am interested in utilizing computers to solve problems.
+I value:
+- learning/planning
+- acting -- and subsequently learning by acting
+- repeating this virtuous cycle
+- helping others learn
+
+My view: Learning best occurs when the greatest number of associations can be made in your brain -- i.e. by doing something, you experience the most relevant inputs, and these are the associations that provide "hooks" for learning. So, I aim to have a bias towards action rather than overthinking -- unless the action is thinking :)
+
+Here is my framework:
+![My Learn-->Plan-->Act Framwork for life](earn-plan-act-cycle.png)
 
 ## Infoverse AI
 
