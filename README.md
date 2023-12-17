@@ -11,6 +11,10 @@ My view: Learning best occurs when the greatest number of associations can be ma
 Here is my framework:
 ![My Learn-->Plan-->Act Framework](https://github.com/jmsundin/jmsundin/blob/main/learn--%3Eplan--%3Eact%20cycle.png))
 
+Here is another framework that I got from Alex Hormozi: First do more --> do better --> then do new.
+New and "shiny" is exciting and tempting, but this framework helps me remember to not change what I am doing unless I have first done more of it, doing what I am doing better, and if I am still not succeeding, then switch and do new.
+![First do more --> do better --> then do new](https://github.com/jmsundin/jmsundin/blob/main/first%20do%20more%20--%3E%20do%20better%20--%3E%20then%20do%20new.png)
+
 ## Infoverse AI
 
 My passion project is called ([Infoverse AI](https://infoverse.ai)). Currently, the web application enables users to search Wikipedia and visualize topics as a graph network as well as view Wikipedia articles in a split-pane view. The goal is to provide the user with a top-down view of a topic, with the capactity to interact with information in an increasingly detailed fashion -- as the user desires. If you hover over a graph node, a brief description of the node topic is shown, and if a Wikipedia article is available on the topic, you can select the Wikipedia icon to open the split-pane view to read the article.
